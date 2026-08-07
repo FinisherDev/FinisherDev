@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ========================================================= -->
 <!--                GitHub Profile README                      -->
 <!-- ========================================================= -->
@@ -7,7 +6,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Chukwufumnanya Molokwu" src="assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
@@ -105,29 +103,6 @@ Alongside software engineering, I design professional presentation decks that he
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
-
-</p>
-
----
-
 # What You'll Find Here
 
 ✔ Backend Applications
@@ -216,6 +191,29 @@ A production-ready backend template with authentication, PostgreSQL integration,
 ### 📊 Presentation Design Portfolio
 
 Professional PowerPoint and Google Slides presentations for startups, entrepreneurs, and business teams.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
+
+</p>
 
 ---
 -->
