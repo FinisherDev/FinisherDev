@@ -58,7 +58,7 @@ Alongside software engineering, I carry out structured data analysis on all kind
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,redis,nodejs,celery,bullmq"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Alongside software engineering, I carry out structured data analysis on all kind
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
 </p>
 
