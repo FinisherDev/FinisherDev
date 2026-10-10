@@ -12,7 +12,7 @@
 <h1 align="center">Chukwufumnanya Molokwu</h1>
 
 <h3 align="center">
-Software Engineer • Backend Developer • Presentation Designer
+Software Engineer • Backend Developer • Data Analyst
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ I enjoy solving business problems with software.
 
 My primary focus is designing robust backend systems and APIs that are maintainable, scalable, and easy to extend. I believe good software is built through thoughtful architecture, clean code, and attention to user experience.
 
-Alongside software engineering, I design professional presentation decks that help startups and businesses communicate ideas with clarity and confidence.
+Alongside software engineering, I carry out structured data analysis on all kinds of business data using up to date tools.
 
 ---
 
@@ -131,10 +131,8 @@ I enjoy building software that is reliable, practical, and designed with people 
 
 If you're interested in collaborating, discussing software engineering, or need help building business software or presentation decks, I'd love to connect.
 
-- LinkedIn
-- Portfolio
-- Email
-- Fiverr
+- https://linkedin.com/in/watchman
+- molokwujude002@gmail.com
 
 ---
 
