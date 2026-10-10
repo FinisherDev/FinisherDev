@@ -131,8 +131,8 @@ I enjoy building software that is reliable, practical, and designed with people 
 
 If you're interested in collaborating, discussing software engineering, or need help building business software or presentation decks, I'd love to connect.
 
-- https://linkedin.com/in/watchman
-- molokwujude002@gmail.com
+- LinkedIn: https://linkedin.com/in/watchman
+- Email: molokwujude002@gmail.com
 
 ---
 
